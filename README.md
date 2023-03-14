@@ -28,7 +28,9 @@ THEN the password is either displayed in an alert or written to the page
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
+![alt text](Develop/assets/images/password-gen1.png)
+![alt text](Develop/assets/images/password-gen2.png)
+![alt text](Develop/assets/images/password-gen3.png)
 
 
 ## Credits
