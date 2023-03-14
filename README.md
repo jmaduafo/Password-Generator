@@ -28,9 +28,14 @@ THEN the password is either displayed in an alert or written to the page
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-![alt text](Develop/assets/images/password-gen1.png)
-![alt text](Develop/assets/images/password-gen2.png)
-![alt text](Develop/assets/images/password-gen3.png)
+User enters length of password, then enters the parameters and then the password gets rendered. If a parameter isn't adequate, 
+then it gets a return
+
+![alt text](Develop/assets/password-gen1.png)
+
+![alt text](Develop/assets/password-gen2.png)
+
+![alt text](Develop/assets/password-gen3.png)
 
 
 ## Credits
